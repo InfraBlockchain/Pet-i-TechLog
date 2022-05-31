@@ -2,8 +2,15 @@
 
 Pet i Project Frontend Tech Blog
 
+### Contents
+- [HTML](./HTML)
+- [CSS](./CSS)
+- [JavaScript](./JavaScript)
+- [TypeScript](./TypeScript)
+- [React](./React)
+
 ### Participants
-- [Nak](./Nak)
-- [Paul](./Paul)
-- [Peter](./Peter)
-- [Russell](./Russell)
+- Nak
+- Paul
+- Peter
+- Russell
